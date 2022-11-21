@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EncryptedSharedPreference</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="user_details">User Details</string>
 </resources>
